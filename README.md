@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/riteshkumar512/Leetcode/tree/master/0101-symmetric-tree) |
 | [0785-is-graph-bipartite](https://github.com/riteshkumar512/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/riteshkumar512/Leetcode/tree/master/0101-symmetric-tree) |
 | [0785-is-graph-bipartite](https://github.com/riteshkumar512/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riteshkumar512/Leetcode/tree/master/0075-sort-colors) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/riteshkumar512/Leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/riteshkumar512/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
