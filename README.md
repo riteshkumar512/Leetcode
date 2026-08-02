@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/riteshkumar512/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/riteshkumar512/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/riteshkumar512/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshkumar512/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/riteshkumar512/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/riteshkumar512/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/riteshkumar512/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/riteshkumar512/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/riteshkumar512/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/riteshkumar512/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
