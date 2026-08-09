@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/riteshkumar512/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/riteshkumar512/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshkumar512/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/riteshkumar512/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/riteshkumar512/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/riteshkumar512/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/riteshkumar512/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -107,9 +108,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshkumar512/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/riteshkumar512/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/riteshkumar512/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshkumar512/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshkumar512/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshkumar512/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshkumar512/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
