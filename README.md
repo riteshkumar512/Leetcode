@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/riteshkumar512/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/riteshkumar512/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/riteshkumar512/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0648-replace-words](https://github.com/riteshkumar512/Leetcode/tree/master/0648-replace-words) |
 | [0931-minimum-falling-path-sum](https://github.com/riteshkumar512/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/riteshkumar512/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/riteshkumar512/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/riteshkumar512/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/riteshkumar512/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/riteshkumar512/Leetcode/tree/master/0648-replace-words) |
 ## Linked List
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/riteshkumar512/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/riteshkumar512/Leetcode/tree/master/0648-replace-words) |
 ## Design
 |  |
 | ------- |
@@ -98,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/riteshkumar512/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/riteshkumar512/Leetcode/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
